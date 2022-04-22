@@ -1,0 +1,20 @@
+int main ()
+{
+
+    int i=0;
+    printf("escribi el numero DOS, por favor\n");
+    scanf("%d", &i);
+    if(i==2)
+    {
+        printf("vamossssssssssssss\n");
+        system("pause");
+        system("start https://youtu.be/af1tbI5xiqM?t=90");
+        system("pause");
+    }
+    else
+    {
+        printf("nahhhhhhhhhhhhhhhhhhhhhhh :(\n'");
+        system("pause");
+    }
+    return 0;
+}
